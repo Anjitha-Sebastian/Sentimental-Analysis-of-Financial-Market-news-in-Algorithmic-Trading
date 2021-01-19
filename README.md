@@ -1,0 +1,1 @@
+# Sentimental-Analysis-of-Financial-Market-news-in-Algorithmic-Trading
